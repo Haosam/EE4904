@@ -1,5 +1,5 @@
 # EE4904
 EEE4904 - Biomedical Instrumentation
 
-## Tutorial Only
-Tutorials for Part 1 and Part 2 only. No other materials included
+### Tutorials only
+#### Note! Not all answers may be 100% correct
